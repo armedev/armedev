@@ -8,7 +8,6 @@ I am:
 - a computer enthusiast from childhood
 - a programmer
 - an engineer (_Information science and engineering_)
-- not a "can you hack my friends Instagram" person
 
 I like:
 
