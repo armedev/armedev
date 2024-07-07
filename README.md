@@ -5,7 +5,7 @@ My real name is Abdul Hameed.
 
 I am:
 
-- a computer enthusiast from childhood
+- a computer enthusiast
 - a programmer
 - an engineer (_Information science and engineering_)
 
